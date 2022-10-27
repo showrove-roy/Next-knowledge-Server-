@@ -1,0 +1,79 @@
+[
+  {
+    "id": "01",
+    "level": "Beginner",
+    "subject": "JavaScript",
+    "price": "49.99",
+    "rating": "4.7",
+    "photo_URL": "https://photos.app.goo.gl/BbJLKNWUXnE5EoT9A",
+    "title": "JavaScript Fundamentals for Everybody",
+    "subTitle": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
+    "description": "Really, really well made course. Super in-depth, with great challenges and projects that will solidify your Javascript understanding. I found the lectures were paced perfectly -- Jonas doesn't skip over anything that might be useful to a JS developer — Carson Bartholomew JavaScript is the most popular programming language in the world. It powers the entire modern web. It provides millions of high-paying jobs all over the world. That's why you want to learn JavaScript too. And you came to the right place!"
+  },
+  {
+    "id": "02",
+    "level": "Advanced",
+    "subject": "JavaScript",
+    "price": "99.99",
+    "rating": "4.5",
+    "photo_URL": "https://lh3.googleusercontent.com/",
+    "title": "Advanced JavaScript for Web-Development",
+    "subTitle": "Learn modern advanced JavaScript practices and be in the top 10% of JavaScript developers",
+    "description": "Updated for 2022! This course is unlike any JavaScript course you will find online. Join a live online community of over 600,000+ developers and a course taught by an industry expert that has actually worked both in Silicon Valley and Toronto as a senior developer. Graduates of this course are now working at Google, Tesla, Amazon, Apple, IBM, JP Morgan, Facebook + other top tech companies."
+  },
+  {
+    "id": "03",
+    "level": "Beginner",
+    "subject": "Java",
+    "price": "79.99",
+    "rating": "4.2",
+    "photo_URL": "",
+    "title": "Java Programming for Complete Beginners",
+    "subTitle": "Java Programming for Beginners to Java Object Oriented Programming. Core Java + REST API with Spring Boot. Java 8 to 16.",
+    "description": "Java is one of the most popular programming languages. Java offers both object-oriented and functional programming features. We take a hands-on approach using a combination of JShell and Eclipse as an IDE to illustrate more than 200 Java Coding Exercises, Puzzles, and Code Examples. This course assumes no previous ( beginner ) programming or Java experience. If you’ve never programmed a computer before, or if you already have experience with another programming language and want to quickly learn Java, this is a perfect course for you."
+  },
+  {
+    "id": "04",
+    "level": "Advanced",
+    "subject": "Java",
+    "price": "99.99",
+    "rating": "4.0",
+    "photo_URL": "",
+    "title": "Object Oriented Programming with Java",
+    "subTitle": "Master Object Oriented in Java, SOLID Design principles, Design Patterns, OOPs philosophy with best practices - 2/e 2019",
+    "description": "Object Oriented programming is there for quite a while now but we found that the course covers either only programming syntax and concepts of OOPs or Design Principl and patterns. It is essential that when you start learning OOPs you should also learn many other related things like Design Principles, Object oriented design and Design Patterns as well because without learning these concepts your knowledge portfolio for OOPs is not complete."
+  },
+  {
+    "id": "05",
+    "level": "Beginner",
+    "subject": "Golang",
+    "price": "84.99",
+    "rating": "4.9",
+    "photo_URL": "",
+    "title": "Learn Go for Beginners Crash Course (Golang)",
+    "subTitle": "Master the Go Programming Language Step by Step - No previous programming experience required.",
+    "description": "If you are like most people wanting to learn a programming language, you don't have much spare time.  What time you have is extremely valuable.   If you want to learn Google's GO programming language, then,  what you need is a course that will teach the essential Go programming skills quickly. Think of a word processing program like Microsoft word - it has lots of advanced features that most people never use.   It's the same with computer programming.  A typical programming language has many parts that rarely get used, and a lot of what is taught in a typical computer course or textbook never gets used in the real world by professional developers."
+  },
+  {
+    "id": "06",
+    "level": "Advanced",
+    "subject": "Golang",
+    "price": "99.99",
+    "rating": "4.5",
+    "photo_URL": "",
+    "title": "Go: The Complete Developer's Guide (Golang)",
+    "subTitle": "Master the fundamentals and advanced features of the Go Programming Language (Golang)",
+    "description": "Go is an open source programming language created by Google.  As one of the fastest growing languages in terms of popularity, its a great time to pick up the basics of Go! This course is designed to get you up and running as fast as possible with Go.  We'll quickly cover the basics, then dive into some of the more advanced features of the language.  Don't be tricked by other courses that only teach you for-loops and if-statements!  This is the only course on Udemy that will teach you how to use the full power of Go's concurrency model and interface type systems."
+  },
+  {
+    "id": "07",
+    "level": "Advanced",
+    "subject": "Blockchain",
+    "price": "999",
+    "rating": "4.1",
+    "photo_URL": "",
+    "title": "Ethereum Blockchain Developer Bootcamp With Solidity (2022",
+    "subTitle": "Become An Ethereum Blockchain Developer With One Course. Master Solidity, Web3.JS, Truffle, Metamask, Remix & More!",
+    "description": "Smart Contracts? They're here.  The Ethereum Blockchain?  Covered.  Solidity?  Yep! There can be no understating it: Ethereum and Blockchain technology is the most disruptive force in years.  Companies cannot hire developers who understand blockchain technologies fast enough, but there are a tiny number of resources published to help you truly understand what blockchains are used for, let alone build apps with them.  That's the purpose of this course: to be the best resource online for learning about Ethereum, blockchains, and how to build apps with this new technology."
+  }
+]
