@@ -1,8 +1,8 @@
 [
   {
     "id": "01",
-    "level": "Beginner",
-    "subject": "JavaScript",
+    "level": "beginner",
+    "subject": "javaScript",
     "price": "49.99",
     "rating": "4.7",
     "photo_URL": "https://lh3.googleusercontent.com/pw/AL9nZEX6nAD5INazL_Ii3ubZCo06MbRSn_EbjkZY1qhzSkIWokLD_5b9iuobj9S455MuCeQYm0_vf9maAdVOIe7XZLy2DEU2kQr-VOFT-Q8fT3YtbUGPtvEVG2Dxw5MTP_SL-rbv9YGiFka0g0-8kT4Tg-5J=w500-h300-no?authuser=0",
@@ -12,8 +12,8 @@
   },
   {
     "id": "02",
-    "level": "Advanced",
-    "subject": "JavaScript",
+    "level": "advanced",
+    "subject": "javaScript",
     "price": "99.99",
     "rating": "4.5",
     "photo_URL": "https://lh3.googleusercontent.com/pw/AL9nZEVpcDMdfKF7D2-agzI9DB47uX0_oh9g_pYqkO5dNv_FupZktbLZwaQFwn20seFgbOmPjCEXK_wSyMzeSuF5vMTXpJ8YthxMIZ6qg8sj5ZQvkk1VNJ1YBmY-mtuNuMhiAbdk3HtybfIsjdL4S_yHlvGX=w500-h300-no?authuser=0",
@@ -23,8 +23,8 @@
   },
   {
     "id": "03",
-    "level": "Mid",
-    "subject": "Java",
+    "level": "mid",
+    "subject": "java",
     "price": "79.99",
     "rating": "4.2",
     "photo_URL": "https://lh3.googleusercontent.com/pw/AL9nZEV-XdEHbUJ_LsHodPl0N4ho_w3XOo4NPd2NWpd3hZ0MVEHI1G09JhUid8O2JZRZty7TxVQNw3H-oKk32Cag1z5rhINPkw8n5oyWWD81usKmKziSu17IY2rfd8leD5ZZQ9Xbj5hMmEExb8spaR35Nf6J=w500-h300-no?authuser=0",
@@ -34,8 +34,8 @@
   },
   {
     "id": "04",
-    "level": "Advanced",
-    "subject": "Java",
+    "level": "advanced",
+    "subject": "java",
     "price": "99.99",
     "rating": "4.0",
     "photo_URL": "https://lh3.googleusercontent.com/pw/AL9nZEWp7bHKIWLpXv594f_Yr4fnXGiib8Am_RqfJcQX4vDmKch7N4aTlLIGBMiD3lqgATMEgSwIICERSE0wqFo-c7MEjvPxNb1A7PZ7LJBKxPMG4piXuFfl5SjU1o0MjAhZ9YuIz1ES6d_6M07CT1K_bwG4=w500-h300-no?authuser=0",
@@ -45,8 +45,8 @@
   },
   {
     "id": "05",
-    "level": "Mid",
-    "subject": "Golang",
+    "level": "mid",
+    "subject": "golang",
     "price": "84.99",
     "rating": "4.9",
     "photo_URL": "https://lh3.googleusercontent.com/pw/AL9nZEXLsTHpZO_vwA_GbwUBY53hgT53WPLVrTTH-5v5YJljmduTgRNx1Y0wndbrbPY99vWZd3U6mryxPkD6XCLB-hHp39fpcmd9nyOqSgc0zVlBKLqH8u0122Xs1bQpRgVisfwhKBqPzCa_BWmHSyozvqAp=w500-h300-no?authuser=0",
@@ -56,8 +56,8 @@
   },
   {
     "id": "06",
-    "level": "Advanced",
-    "subject": "Golang",
+    "level": "advanced",
+    "subject": "golang",
     "price": "99.99",
     "rating": "4.5",
     "photo_URL": "https://lh3.googleusercontent.com/pw/AL9nZEXR4LJsV11HPWenMEJ2cNGwAiycr35ZjCeMJYxzhk2Q_ZexgBVj4FkmJWS5BNnoeB9j_p4WWwz2YOZyfCpdI5kJbCL7GK83whhbfbUFPh0UHyI7nrV4G_o6RxoSa9P55ZdMTMl5gq3pGhp4fNxLldJt=w500-h300-no?authuser=0",
@@ -67,8 +67,8 @@
   },
   {
     "id": "07",
-    "level": "Advanced",
-    "subject": "Blockchain",
+    "level": "advanced",
+    "subject": "blockchain",
     "price": "999",
     "rating": "4.1",
     "photo_URL": "https://lh3.googleusercontent.com/pw/AL9nZEV_Yef1McRYWyScCYNJdhQNcpGVQ62ebfoOGTFXoMaR6SOiphR6ZkgzRCfQxyy_VcQBMPJc1pi5_GeK0uY9usY663zeS_cHsGp4fYvTdIFjG5yJMKqu240b49NZIzx2MH4vY3uyWKfeJtSiwUVuTOL-=w500-h300-no?authuser=0",

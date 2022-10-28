@@ -15,11 +15,17 @@ app.get("/level", (req, res) => {
   res.send(level);
 });
 
-// create subject api url
+// create all subject api url
 app.get("/subject", (req, res) => {
   res.send(subject);
 });
 
+// get single subject
+app.get("/course/:subject", (req, res) => {
+  const sub = req.params.subject;
+  const selectedSubject = courses.filter((course) => course.subject == sub);
+  res.send(selectedSubject);
+});
 // get all courses Api
 app.get("/courses", (req, res) => {
   res.send(courses);
