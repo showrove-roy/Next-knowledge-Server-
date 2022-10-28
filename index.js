@@ -26,6 +26,14 @@ app.get("/course/:subject", (req, res) => {
   const selectedSubject = courses.filter((course) => course.subject == sub);
   res.send(selectedSubject);
 });
+
+// get single level
+app.get("/course/:level", (req, res) => {
+  const lev = req.params.level;
+  const selectedLevel = courses.filter((course) => course.level === lev);
+  res.send(selectedLevel);
+});
+
 // get all courses Api
 app.get("/courses", (req, res) => {
   res.send(courses);
