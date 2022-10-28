@@ -21,17 +21,24 @@ app.get("/subject", (req, res) => {
 });
 
 // get single subject
-app.get("/course/:subject", (req, res) => {
+app.get("/courses/:subject", (req, res) => {
   const sub = req.params.subject;
-  const selectedSubject = courses.filter((course) => course.subject == sub);
+  const selectedSubject = courses.filter((course) => course.subject === sub);
   res.send(selectedSubject);
 });
 
-// get single level
-app.get("/course/:level", (req, res) => {
-  const lev = req.params.level;
-  const selectedLevel = courses.filter((course) => course.level === lev);
-  res.send(selectedLevel);
+// get single subject
+app.get("/courses/:level", (req, res) => {
+  const levl = req.params.level;
+  const selectedlevel = courses.filter((course) => course.level === levl);
+  res.send(selectedlevel);
+});
+
+// get single course api
+app.get("/courses/:id", (req, res) => {
+  const id = req.params.id;
+  const selectedCourse = courses.find((c) => c.id === id);
+  res.send(selectedCourse);
 });
 
 // get all courses Api
