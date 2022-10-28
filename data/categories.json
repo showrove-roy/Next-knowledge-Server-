@@ -1,0 +1,37 @@
+[
+  {
+    "id": "01",
+    "level": "Beginner",
+    "subject": "JavaScript"
+  },
+  {
+    "id": "02",
+    "level": "Advanced",
+    "subject": "JavaScript"
+  },
+  {
+    "id": "03",
+    "level": "Beginner",
+    "subject": "Java"
+  },
+  {
+    "id": "04",
+    "level": "Advanced",
+    "subject": "Java"
+  },
+  {
+    "id": "05",
+    "level": "Beginner",
+    "subject": "Golang"
+  },
+  {
+    "id": "06",
+    "level": "Advanced",
+    "subject": "Golang"
+  },
+  {
+    "id": "07",
+    "level": "Advanced",
+    "subject": "Blockchain"
+  }
+]
